@@ -1,0 +1,14 @@
+# jackpot2ltexx-user 9 PPR1.180610.011 A730FXXU7CVE1 release-keys
+- manufacturer: samsung
+- platform: 
+- codename: jackpot2lte
+- flavor: jackpot2ltexx-user
+- release: 9
+- id: PPR1.180610.011
+- incremental: A730FXXU7CVE1
+- tags: release-keys
+- fingerprint: samsung/jackpot2ltexx/jackpot2lte:9/PPR1.180610.011/A730FXXU7CVE1:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: jackpot2ltexx-user-9-PPR1.180610.011-A730FXXU7CVE1-release-keys
+- repo: samsung_jackpot2lte_dump
